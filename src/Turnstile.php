@@ -1,4 +1,6 @@
 <?php
+namespace arjitc\Cloudflare-Turnstile-PHP;
+
 class Turnstile {
 
     private $post;

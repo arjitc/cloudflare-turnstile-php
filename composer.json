@@ -1,0 +1,7 @@
+{
+    "name": "arjitc/cloudflare-turnstile-php",
+    "description": "CloudFlare Turnstile PHP Library",
+    "require": {
+        "php": ">=8.1"
+    }
+}

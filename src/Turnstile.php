@@ -1,5 +1,5 @@
 <?php
-namespace arjitc\Cloudflare-Turnstile-PHP;
+namespace arjitc\CloudflareTurnstilePHP;
 
 class Turnstile {
 

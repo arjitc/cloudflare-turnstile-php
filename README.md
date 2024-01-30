@@ -30,6 +30,8 @@ Replace `YOUR_SECRET_KEY` with a `SECRET_KEY` you get from the CloudFlare Turnst
 ```
 <?php
 require 'vendor/autoload.php';
+use arjitc\CloudflareTurnstilePHP\Turnstile;
+
 $Turnstile = new Turnstile("YOUR_SECRET_KEY");
 $resp      = $Turnstile->verify();
 

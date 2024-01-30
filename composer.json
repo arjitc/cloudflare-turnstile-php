@@ -1,6 +1,9 @@
 {
     "name": "arjitc/cloudflare-turnstile-php",
     "description": "CloudFlare Turnstile PHP Library",
+    "license": [
+       "GPL-3.0-only"
+   ],
     "require": {
         "php": ">=8.1"
     }

@@ -13,6 +13,8 @@ composer require arjitc/cloudflare-turnstile-php
 Replace `YOUR_SITE_KEY` with a `SITE_KEY` you get from the CloudFlare Turnstile Menu (https://dash.cloudflare.com/?to=/:account/turnstile)
 
 ```
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
 <form action="account.php" method="post">
 First Name: <input type="text" name="fname"><br>
 Last Name: <input type="text" name="lname"><br>

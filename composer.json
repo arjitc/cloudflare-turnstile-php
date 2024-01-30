@@ -4,6 +4,9 @@
     "license": [
        "GPL-3.0-only"
    ],
+    "autoload": {
+        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+    },
     "require": {
         "php": ">=8.1"
     }

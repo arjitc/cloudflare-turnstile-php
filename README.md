@@ -10,7 +10,7 @@ composer require arjitc/cloudflare-turnstile-php
 
 ### Frontend
 
-Replace `YOUR_SITE_KEY`` with a `SITE_KEY` you get from the CloudFlare Turnstile Menu (https://dash.cloudflare.com/?to=/:account/turnstile)
+Replace `YOUR_SITE_KEY` with a `SITE_KEY` you get from the CloudFlare Turnstile Menu (https://dash.cloudflare.com/?to=/:account/turnstile)
 
 ```
 <form action="account.php" method="post">

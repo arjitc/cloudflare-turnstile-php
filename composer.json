@@ -5,7 +5,7 @@
        "GPL-3.0-only"
    ],
     "autoload": {
-        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+        "psr-4": {"arjitc/Cloudflare-Turnstile-PHP\\": "src/"}
     },
     "require": {
         "php": ">=8.1"
